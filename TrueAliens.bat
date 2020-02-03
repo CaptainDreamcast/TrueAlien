@@ -1,0 +1,2 @@
+cd C:\DEV\PLATFORMS\NES\TrueAliens
+C:\DEV\PLATFORMS\NES\NESASM3.exe C:\DEV\PLATFORMS\NES\TrueAliens\TrueAliens.asm
